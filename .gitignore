@@ -1,0 +1,8 @@
+*.sdf
+/ipch/
+/Debug/
+*/Debug/
+*/*/Debug/
+/Release/
+*/Release/
+*/*/Release/
